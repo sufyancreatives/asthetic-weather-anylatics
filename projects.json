@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Data Analysis Dashboard",
+    "description": "Interactive dashboard using Python and Streamlit"
+  },
+  {
+    "title": "Machine Learning Model",
+    "description": "Prediction model built using Scikit-learn"
+  },
+  {
+    "title": "Web Portfolio",
+    "description": "Personal portfolio made with Streamlit"
+  }
+]
