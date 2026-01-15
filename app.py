@@ -156,9 +156,9 @@ with col2:
 
     st.altair_chart(weather_chart, use_container_width=True)
 
-# Optional table
-with st.expander("📋 View Weather Distribution Data"):
-    st.dataframe(weather_counts, use_container_width=True)
+ #Optional table
+#with st.expander("📋 View Weather Distribution Data"):
+ #   st.dataframe(weather_counts, use_container_width=True)
 
 st.divider()
 
